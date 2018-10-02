@@ -26,10 +26,8 @@
 
 @import url('https://fonts.googleapis.com/css?family=Alex+Brush|Great+Vibes|PT+Sans+Narrow:400,700');
 @font-face
-{
-	font-family: 'Edward';
-	src: url(../font/edwardian_script_itc.ttf) format('truetype'),
-	url(../font/edwardian_script_itc.otf) format('opentype');
+{  font-family:'verdana'; 
+	
 }
 
 /*********************************
@@ -566,7 +564,7 @@ section
 .home
 {
 	width: 100%;
-	height: 888px;
+	height: 900px;
 }
 .home_container
 {
@@ -592,7 +590,7 @@ section
 }
 .home_text
 {
-	max-width: 875px;
+	max-width: 1275px;
 	margin-top: 14px;
 }
 .home_text p

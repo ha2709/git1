@@ -27,7 +27,18 @@
 
 @media only screen and (max-width: 1600px)
 {
-	
+	.main_nav
+	{
+		margin-left: 70px;
+	}
+	.main_nav ul li:not(:last-child)
+	{
+		margin-right: 35px;
+	}
+	.dish_price
+	{
+		margin-left: 0px;
+	}
 }
 
 /************
@@ -63,18 +74,7 @@
 
 @media only screen and (max-width: 1199px)
 {
-	.main_nav
-	{
-		margin-left: 70px;
-	}
-	.main_nav ul li:not(:last-child)
-	{
-		margin-right: 35px;
-	}
-	.dish_price
-	{
-		margin-left: 0px;
-	}
+	
 }
 
 /************
