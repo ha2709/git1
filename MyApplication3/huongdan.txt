@@ -1,0 +1,11 @@
+nhap ten
+sv.aprotrain.com ben duoi ten Project
+mo thu muc chua project - code: Myapplication3 va thu muc moi
+copy cac file sang tuong ung
+nho copy dimens trong res-values
+- activity_main, note_list_row
+color,dimens.xml 
+chu y sua lai ten package 
+import lai 1 so class. 
+LUu y, dong so 32 o Mainactivity la khoi tao 1 Note moi. no se tu cap nhat thoi gian.
+bai nay chua hoan chinh. chi lam het cau 2. 

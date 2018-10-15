@@ -244,6 +244,7 @@
 	.res_title
 	{
 		font-size: 36px;
+		border-bottom: 1px solid #f1f1f1;
 	}
 	.res_form_container
 	{
